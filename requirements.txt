@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+kazoo
+motor
+dotenv
+
